@@ -1,0 +1,3 @@
+# Contributors
+
+## Patches are welcome
