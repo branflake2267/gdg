@@ -1,6 +1,25 @@
 # GDG Events
 
-## Types
+## Why 
+Why should I host my event? 
+
+## When
+How often could I have my events?
+
+## What 
+What kind of events are there?
+
+## How 
+How can I host my event? 
+
+## Where
+Where can I host my event? 
+
+
+
+## Reference
+
+### Types
 
 | type | description |
 |--- | --- |
@@ -8,23 +27,3 @@
 | Sponsored | Sponsored and driven by Google |
 | WTM | Women Tech Makers, inclusive events |
 | Product Specific | |
-
-
-
-## Frequency
-
-### Non Sponsored
-
-### Monthly
-General monthly events.
-
-### Garage
-
-
-## Sponsored
-
-### DevFest
-
-### Next
-
-### Product
