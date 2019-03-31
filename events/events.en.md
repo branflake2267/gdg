@@ -27,3 +27,8 @@ Where can I host my event?
 | Sponsored | Sponsored and driven by Google |
 | WTM | Women Tech Makers, inclusive events |
 | Product Specific | |
+
+
+## TODOS
+- templates
+- ideas
