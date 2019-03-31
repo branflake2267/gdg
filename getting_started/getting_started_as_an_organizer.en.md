@@ -2,12 +2,8 @@
 This covers getting started as a GDG organizer or co-organizer. 
 
 
-## Prerequisites
-
-
-
 ## Why
-Why would you want to join, what are the benefits?
+Why would you want to join and what are the benefits?
 
 ### Passion
 Why is it you want to help out? 
@@ -19,7 +15,10 @@ What are the potential benefits of being a GDG Organizer?
 What are the internal rewards? 
 
 
-## Joining
+## How
+How can I join? 
 
 
+## Where
+Where can I join? 
 
