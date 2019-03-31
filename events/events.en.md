@@ -1,11 +1,20 @@
 # GDG Events
 
-## DevFest
+## Frequency
 
-## General
+### Non Sponsored
+
+### Monthly
 General monthly events.
 
-## Next
+### Garage
 
-## Product
+
+## Sponsored
+
+### DevFest
+
+### Next
+
+### Product
 
