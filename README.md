@@ -1,0 +1,2 @@
+# gdg
+My GDG ideas
