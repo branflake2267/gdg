@@ -32,3 +32,4 @@ Where can I host my event?
 ## TODOS
 - templates
 - ideas
+- Planning, show how to plan
