@@ -8,6 +8,6 @@ The goal is to write down docs in a concise terse format. I'm asking how can I t
 
 Files names as `[topic].[language].md`
 
-## Format
+### Format
 
 Ask your self, why, how, where, when...
