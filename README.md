@@ -7,3 +7,7 @@ The goal is to write down docs in a concise terse format. I'm asking how can I t
 ### File Names
 
 Files names as `[topic].[language].md`
+
+## Format
+
+Ask your self, Why, how, where, when...
