@@ -1,6 +1,8 @@
 # Getting Started as an Organizer
 This covers getting started as a GDG organizer or co-organizer. 
 
+## What
+What types of organizers are there? 
 
 ## Why
 Why would you want to join and what are the benefits?

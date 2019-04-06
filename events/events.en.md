@@ -3,6 +3,9 @@
 ## Why 
 Why should I host my event? 
 
+## What
+What type of events are there? 
+
 ## When
 How often could I have my events?
 
