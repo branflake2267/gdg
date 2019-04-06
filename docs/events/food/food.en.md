@@ -13,3 +13,8 @@ When should I get food for the event?
 
 ## What
 What kind of food should I get? 
+
+
+## Paying
+
+* Pizza tip, how much?
