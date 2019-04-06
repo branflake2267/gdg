@@ -1,7 +1,7 @@
-# GDG Ideas Home
+# GDG Documentation Home
 
 ## What
-What is GDG? 
+What is GDG? GDG stands for Google Developer Group.
 
 ## Why 
 Why do we have GDG? 

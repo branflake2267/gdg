@@ -1,5 +1,8 @@
 # Sponsors
 
+## What
+What is a sponsor? 
+
 ## Why
 Why should I get sponsors?
 
@@ -14,7 +17,7 @@ Who could I get as sponsors?
 ## How
 How can I get sponsors? 
 
-## Benefits
+## Sponsor Benefits
 What are the sponsors benefits? 
 
 

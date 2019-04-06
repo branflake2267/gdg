@@ -7,6 +7,8 @@ What types of organizers are there?
 ## Why
 Why would you want to join and what are the benefits?
 
+[TODO trailer video]
+
 ### Passion
 Why is it you want to help out? 
 
